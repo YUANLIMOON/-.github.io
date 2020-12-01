@@ -1,15 +1,29 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/YUANLIMOON/-.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<table border="0"ゝ
 
-```markdown
-Syntax highlighted code block
+<tr>
+
+<td width="75%" >
+
+<h1>许轲</h1>
+
+<p><b>本科生</b></p>
+
+<p><b>浙江万里学院信息与智能科技学院</b></p>
+
+<p><b>邮箱：1477977237@qq . com</b></p>
+
+<p><b>地址: 宁波市鄞州区盛莫路路浙江万里学院，6楼</b></p>
+
+</td>
+
+<td width="25%">
+
+<img src=" /zhengjianzhao. jpg" width=" 100%" >   %
+
+</td>
 
 # Header 1
 ## Header 2
@@ -26,7 +40,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
